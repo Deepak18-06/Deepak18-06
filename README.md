@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Financial Advisor**
 
-- 🤝 I’m looking for help with **NFT Marketplace Exchange**
+- 🤝 I’m looking for help with **NFT Marketplace Exchange clone**
 
 - 👨‍💻 My Leetcode Profile [https://leetcode.com/dkprajapat1212/](https://leetcode.com/dkprajapat1212/)
 
