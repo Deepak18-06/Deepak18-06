@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak18-06&label=Profile%20views&color=0e75b6&style=flat" alt="deepak18-06" /> </p>
 
-- 🔭 I’m currently working on **Djackets**
+- 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **Vue.js and ReactJS**
+- 🌱 I’m currently learning **flutter and Django**
 
-- 👯 I’m looking to collaborate on **Financial Advisor**
+- 👯 I’m looking to collaborate on **python or flutter base project**
 
-- 🤝 I’m looking for help with **NFT Marketplace Exchange clone**
+- 🤝 I’m looking for help with **Backend Engineering**
 
 - 👨‍💻 My Leetcode Profile [https://leetcode.com/dkprajapat1212/](https://leetcode.com/dkprajapat1212/)
 
-- 💬 Ask me about **Django,React,Vue**
+- 💬 Ask me about **Django,flask,flutter**
 
 - 📫 How to reach me **kumar.deepak.iiit@gmail.com**
 
