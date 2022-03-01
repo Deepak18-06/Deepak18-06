@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deepak Kumar</h1>
-<h3 align="center">A passionate web developer and machine learning enthusiast from India</h3>
+<h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak18-06&label=Profile%20views&color=0e75b6&style=flat" alt="deepak18-06" /> </p>
 
 - 🔭 I’m currently working on **Portfolio website**
 
-- 🌱 I’m currently learning **flutter and Django**
+- 🌱 I’m currently learning **Ruby and Nodejs**
 
-- 👯 I’m looking to collaborate on **python or flutter base project**
+- 👯 I’m looking to collaborate on **Ruby and Nodejs**
 
 - 🤝 I’m looking for help with **Backend Engineering**
 
