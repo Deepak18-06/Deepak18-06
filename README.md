@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak18-06&label=Profile%20views&color=0e75b6&style=flat" alt="deepak18-06" /> </p>
 
-- 🔭 I’m currently working on **Portfolio website**
-
 - 🌱 I’m currently learning **Ruby and Nodejs**
-
-- 👯 I’m looking to collaborate on **Ruby and Nodejs**
-
-- 🤝 I’m looking for help with **Backend Engineering**
 
 - 👨‍💻 My Leetcode Profile [https://leetcode.com/dkprajapat1212/](https://leetcode.com/dkprajapat1212/)
 
