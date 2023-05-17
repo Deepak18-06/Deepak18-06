@@ -7,7 +7,7 @@
 
 - 👨‍💻 My Leetcode Profile [https://leetcode.com/dkprajapat1212/](https://leetcode.com/dkprajapat1212/)
 
-- 💬 Ask me about **Django,flask,flutter**
+- 💬 Ask me about **Ruby On Rails,**NodeJS,**Django,flask,flutter**
 
 - 📫 How to reach me **kumar.deepak.iiit@gmail.com**
 
