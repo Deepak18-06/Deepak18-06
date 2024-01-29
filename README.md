@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak18-06&label=Profile%20views&color=0e75b6&style=flat" alt="deepak18-06" /> </p>
 
-- 🌱 I’m currently learning **Ruby and Nodejs**
+- 🌱 I’m currently learning **Rust and Go**
 
 - 👨‍💻 My Leetcode Profile [https://leetcode.com/dkprajapat1212/](https://leetcode.com/dkprajapat1212/)
 
